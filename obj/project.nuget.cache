@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "u6TWw1490mE=",
+  "dgSpecHash": "+xprkQ5RvbY=",
   "success": true,
-  "projectFilePath": "/home/haci140/Masaüstü/ilk-uygulama/ilk-uygulama.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Enes\\Desktop\\MVC\\ilk-uygulama\\ilk-uygulama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Enes\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.12\\microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\Enes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.12\\microsoft.windowsdesktop.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\Enes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.12\\microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
+    "C:\\Users\\Enes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.12\\microsoft.netcore.app.host.win-x64.9.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
